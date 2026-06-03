@@ -19,7 +19,7 @@ Anyway, time to start my Portfolio!
 
 [1. Cisco Networking.](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities)
 
-I learned Cisco devices on Packet Tracer. This is a ~virtual~ environment that pretends to be real routers and switches, allowing me to save thousands of dollars while still being able to learn the stuff. But you can copy the EXACT commands you put on Packet Tracer onto REAL routers and switches and firewalls or whatever, and it would still work in a real organization!
+I learned Cisco devices on Packet Tracer. This is a *virtual* environment that pretends to be real routers and switches, allowing me to save thousands of dollars while still being able to learn the stuff. But you can copy the EXACT commands you put on Packet Tracer onto REAL routers and switches and firewalls or whatever, and it would still work in a real organization!
 
 2. Python Programming
 3. Kali Linux
