@@ -28,3 +28,4 @@ I learned Cisco devices on Packet Tracer. This is a ~virtual~ environment that p
 6. Javascript, PHP, HTML, basically website building
 7. Website Penetration Testing,
 8. Port Penetration Testing
+9. PC Hardware building and fixing.
