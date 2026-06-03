@@ -22,4 +22,9 @@ Anyway, time to start my Portfolio!
 I learned Cisco devices on Packet Tracer. This is a ~virtual~ environment that pretends to be real routers and switches, allowing me to save thousands of dollars while still being able to learn the stuff. But you can copy the EXACT commands you put on Packet Tracer onto REAL routers and switches and firewalls or whatever, and it would still work in a real organization!
 
 2. Python Programming
-3. Penetration Testing
+3. Kali Linux
+4. Scripting Languages (Powershell for Windows, Bash for Linux, or just Python)
+5. Java or android apps
+6. Javascript, PHP, HTML, basically website building
+7. Website Penetration Testing,
+8. Port Penetration Testing
